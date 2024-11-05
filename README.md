@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Pooja Salunke! 👋
 
-<!--
-**pooja9008/pooja9008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/pooja-salunke7077/))
 
-Here are some ideas to get you started:
+## About me
+I am a Web Devevloper from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m an aspiring Web Dveloper getting trained from Tap Academy, Bangalore.
+- 🌱 Exploring AWS Services, Machine Learning, Deep Learning, and Artificial Intelligence.
+- ⚡ In my free time, I solve problems on HackerRank and Leetcode.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pooja-salunke7077/)
+
+### Hobbies
+- 🏔 Learning about new software
+- 📚 Watching movies like crazy
+- 🎨 Painting bittles
+
