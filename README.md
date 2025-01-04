@@ -6,7 +6,6 @@
 I am a Web Devevloper from India.
 
 - 🔭 I’m an aspiring Web Dveloper getting trained from Tap Academy, Bangalore.
-- 🌱 Exploring AWS Services, Machine Learning, Deep Learning, and Artificial Intelligence.
 - ⚡ In my free time, I solve problems on HackerRank and Leetcode.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pooja-salunke7077/)
 
