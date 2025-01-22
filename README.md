@@ -8,7 +8,7 @@ I am a Web Devevloper from India.
 - 🔭 I’m an aspiring trained Web Dveloper.
 - ⚡ In my free time, I solve problems on HackerRank and Leetcode.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pooja-salunke7077/)
-- [Leetcode](https://www.linkedin.com/in/pooja-salunke7077/](https://leetcode.com/u/poojasalunke7077/)
+- [Leetcode]([https://www.linkedin.com/in/pooja-salunke7077/](https://leetcode.com/u/poojasalunke7077/))
 
 ### Hobbies
 - 🏔 Learning about new software
